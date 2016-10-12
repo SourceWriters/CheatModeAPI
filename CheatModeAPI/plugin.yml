@@ -1,0 +1,8 @@
+name: CheatMode-API
+version: 1.0
+author: YellowPhoenix18
+
+main: de.yellowphoenix18.cmp_api.CMP_API
+
+commands:
+   
